@@ -1,3 +1,5 @@
 #README.MD
 
-what is this shit
+Let's change this and see what happens..
+
+learning git
